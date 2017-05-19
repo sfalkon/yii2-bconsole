@@ -25,5 +25,5 @@
         "psr-4": {
             "yii2-bconsole\\": "src/"
         }
-    },
+    }
 }
