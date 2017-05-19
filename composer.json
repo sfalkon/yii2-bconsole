@@ -1,5 +1,5 @@
 {
-    "name": "Bareos/BSock",
+    "name": "bareos/bsock",
     "type": "library",
     "description": "A library for connect to Bareos Director from YII2 Framework. Fork Bareos-Webui",
     "kywords": [
