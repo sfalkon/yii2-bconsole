@@ -1,0 +1,29 @@
+{
+    "name": "Bareos/BSock",
+    "type": "library",
+    "description": "A library for connect to Bareos Director from YII2 Framework. Fork Bareos-Webui",
+    "kywords": [
+	"bareos",
+	"backup",
+	"bconsole",
+	"bsocket",
+	"bsock"
+	],
+    "license": "MIT",
+    "support": {
+	"issues": "https://github.com/sfalkon/yii2-bconsole/issues",
+	"source": "https://github.com/sfalkon/yii2-bconsole"
+	}
+    "authors": [
+        {
+            "name": "Sergey Logvinenko",
+            "email": "sfalkon.gm@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "yii2-bconsole\\": "src/"
+        }
+    },
+
