@@ -13,7 +13,7 @@
     "support": {
 	"issues": "https://github.com/sfalkon/yii2-bconsole/issues",
 	"source": "https://github.com/sfalkon/yii2-bconsole"
-	}
+	},
     "authors": [
         {
             "name": "Sergey Logvinenko",
