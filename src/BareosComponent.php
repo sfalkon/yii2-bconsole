@@ -1,9 +1,9 @@
 <?php
 
-namespace Bareos\BSock;
+namespace Bareos;
 
 use yii\base\Component;
-use Bareos\BSock\BareosBSock;
+use Bareos\BareosBSock;
 
 class BareosComponent extends Component {
 	private $bsockClass;

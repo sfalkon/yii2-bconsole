@@ -22,7 +22,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-namespace Bareos\BSock;
+namespace Bareos;
 
 class BareosBase64
 {

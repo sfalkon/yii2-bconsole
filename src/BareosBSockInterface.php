@@ -23,7 +23,7 @@
  *
  */
 
-namespace Bareos\BSock;
+namespace Bareos;
 
 interface BareosBSockInterface
 {
